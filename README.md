@@ -22,6 +22,29 @@ Product Mix: Jalapeno and Banana Peppers follow closely in popularity
 
 Operational Relevance: Useful for inventory planning, vendor coordination, and targeted marketing
 
+📌 Key Performance Indicators (KPIs)
+This project tracks several critical KPIs to evaluate sales performance and customer engagement:
+
+Total Customers: 1000 unique customer IDs analyzed.
+
+Total Vendors: 1 vendor involved in all transactions.
+
+Total Sales Transactions: 26 distinct sales entries recorded.
+
+Total Quantity Sold: 8.62K units across all products.
+
+Filtered Quantity: 2.95K units based on applied filters or subsets.
+
+Unique Products: 4 distinct product IDs (pepper varieties).
+
+Top-Selling Product: Poblano Pepper, contributing 35.9% of total quantity sold.
+
+Customer Purchase Spread: Line chart showing quantity and cost per customer.
+
+Product Performance: Bar and pie charts comparing quantity sold across products.
+
+Customer Engagement: Quantity purchased per customer visualized for behavioral insights.
+
 🛠️ Technologies Used
 Excel Dashboarding: For interactive charts and slicers
 
