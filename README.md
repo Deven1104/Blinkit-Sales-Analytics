@@ -1,15 +1,17 @@
 <img width="1307" height="746" alt="image" src="https://github.com/user-attachments/assets/e77c4a22-c4fd-4e0c-9ee0-d550d4d6b562" />
+
+
+# Blinkit Sales Data Analysis
+
+
 This repository presents a comprehensive analysis of Blinkit sales data using interactive dashboards and visualizations. The project leverages customer purchase behavior, product performance, and category-level insights to support data-driven decision-making in retail operations.
 
 📁 Datasets Used
 The analysis is based on the following structured datasets:
-
-Filename	Description
-customer.csv	Contains unique customer identifiers and demographic attributes
-customer_purchases_new.csv	Records transactional data including product purchases, quantities, and costs
-product.csv	Maps product IDs to product names and associated metadata
-product_category.csv	Links products to their respective categories for hierarchical analysis
-
+- [customer.csv](data/customer.csv)
+- [customer_purchases_new.csv](data/customer_purchases_new.csv)
+- [product.csv](data/product.csv)
+- [product_category.csv](data/product_category.csv)
 
 📈 Key Insights
 Top-Selling Product: Poblano Pepper (35.9% of total quantity)
